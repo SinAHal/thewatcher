@@ -1,4 +1,7 @@
 # thewatcher
+
+LEARNINGAKKAJG
+
 Term tracking service
 
 Initial purpose of this project serves as a tool for learning Akka
