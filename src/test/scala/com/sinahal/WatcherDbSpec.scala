@@ -1,4 +1,4 @@
-package com.akkademy
+package com.sinahal
 
 import org.scalatest.{BeforeAndAfterEach, FunSpecLike, Matchers}
 import akka.actor.ActorSystem
